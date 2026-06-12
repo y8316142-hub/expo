@@ -88,6 +88,9 @@ importers:
       '@expo/dom-webview':
         specifier: workspace:*
         version: link:../../packages/@expo/dom-webview
+      '@expo/expo-modules-macros-plugin':
+        specifier: 0.2.2
+        version: 0.2.2
       '@expo/styleguide-base':
         specifier: ^1.0.1
         version: 1.0.1(react@19.2.3)
